@@ -13,4 +13,5 @@ pico_sdk_init()
 # Add my test example
 add_subdirectory(motor_move)
 add_subdirectory(encoder)
+add_subdirectory(class_motor)
 
